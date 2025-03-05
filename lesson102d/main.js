@@ -4,7 +4,7 @@ const myPage = {
   height: 185,
   isAdmin: false,
   greet: function (name) {
-    return `Hello ${name}`
+    return `Hello ${name}`;
   }
 }
 
