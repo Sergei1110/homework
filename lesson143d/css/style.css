@@ -718,7 +718,8 @@
     font-family: 'Gabriola';
     font-size: 42px;
     line-height: 90%;
-    color: var(--accent-text) transition: var(--transition);
+    color: var(--accent-text); 
+    transition: var(--transition);
 }
 
 .accordion-list__item--opened .accordion-list__control {
